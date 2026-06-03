@@ -12,15 +12,15 @@ Relevant resources and documentation for implementing Agentic DevOps and SRE wor
 - **[How Google SRE Is Using Agentic AI to Improve Operations](https://cloud.google.com/blog/products/devops-sre/how-google-sre-is-using-agentic-ai-to-improve-operations/)**  
   An overview of how Google SRE is using agentic AI to improve production operations.
 
+- **[Introducing Managed Agents in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/)**  
+  cloud-hosted AI infrastructure and APIs that allow you to spin up autonomous, tool-using AI agents without managing the underlying server infrastructure, sandboxes, or container scaffolding.
+
 ---
 
 ### Platforms & Tools
 
 - **[Antigravity](https://antigravity.google)**  
   Official site for the Antigravity platform.
-
-- **[Model Context Protocol](https://modelcontextprotocol.org)**  
-  Documentation for the open-standard protocol enabling models to interact with developer environments.
 
 ---
 
@@ -31,3 +31,7 @@ Relevant resources and documentation for implementing Agentic DevOps and SRE wor
 
 - **[google/agents-cli](https://github.com/google/agents-cli)**  
   Agents CLI gives your coding agent the skills and commands to build, scale, govern, and optimize enterprise-grade agents.
+
+- **[google/agents-cli](https://github.com/google/agents-cli)**  
+  Agents CLI gives your coding agent the skills and commands to build, scale, govern, and optimize enterprise-grade agents.
+
