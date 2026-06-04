@@ -22,6 +22,10 @@ Relevant resources and documentation for implementing Agentic DevOps and SRE wor
 - **[Antigravity](https://antigravity.google)**  
   Official site for the Antigravity platform.
 
+- **[Gemini Cloud Assist Proactive Mode](https://docs.cloud.google.com/cloud-assist/proactive-agents-setup)**  
+  Set up Proactive Mode to allow Gemini Cloud Assist to run autonomously in the background,
+  continuously investigating alerts and analyzing cost anomalies.
+
 ---
 
 ### Repositories
@@ -32,6 +36,4 @@ Relevant resources and documentation for implementing Agentic DevOps and SRE wor
 - **[google/agents-cli](https://github.com/google/agents-cli)**  
   Agents CLI gives your coding agent the skills and commands to build, scale, govern, and optimize enterprise-grade agents.
 
-- **[google/agents-cli](https://github.com/google/agents-cli)**  
-  Agents CLI gives your coding agent the skills and commands to build, scale, govern, and optimize enterprise-grade agents.
 
