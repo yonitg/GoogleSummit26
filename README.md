@@ -37,3 +37,7 @@ Relevant resources and documentation for implementing Agentic DevOps and SRE wor
   Agents CLI gives your coding agent the skills and commands to build, scale, govern, and optimize enterprise-grade agents.
 
 
+### Code Labs 
+
+- **[Agent First Workflows - From prompt to production](https://codelabs.developers.google.com/io26/keynote/agent-first-workflows?hl=en#0)**  
+  This codelab shows you how Google Cloud's unified stack (Eventarc, Cloud Run, Firestore, Cloud Build, BigQuery) makes it easy for agents to securely fetch secrets, stream logs, and remediate issues out-of-the-box.
